@@ -36,6 +36,5 @@ Basic features:
 	-View: Ruler, advancedRuler, GridLine, FullScreen, choose Theme
 	-Options(biti kreativan): ImageProperties kao u Photoshop
 
-
 Addvanced:
 Za bilo sta sto se pravi + selektovanje otvori se prozor pored sa opcijama kao sto su shadow, blur, opassiti, menjanje
