@@ -1,7 +1,7 @@
 Basic Features:
--WorkingPanel sa bijelom pozadinom sa resize opcijom
+	-WorkingPanel sa bijelom pozadinom sa resize opcijom
 
--Toolbar:
+	-Toolbar:
 		 #Olovka 
 		 #colorPanel sa osnovnim bojama, kad izaberemo pojavi se okvir oko tog kvadratica========================
 		 #4 predlozene debljine linija 
@@ -18,7 +18,7 @@ Basic Features:
 		 #Paste
 		 #Cut
 
--FileManager:
+	-FileManager:
 	-File: New, Open, Save, Save as
 
 
@@ -26,7 +26,7 @@ Basic Features:
 
 
 Optional Features:
--Toolbar:
+	-Toolbar:
  		#TextBox za scaling u kom ce pisati trenutna debljina linije
  		#Opacity
  		#Dodatni oblike
@@ -37,11 +37,11 @@ Optional Features:
  		#Tekst: Font + fontSize, Bold, Bojanje teksta, move line with enter key
  		#ColorPicker
 
--FootBar:
+	-FootBar:
 		#Size of the frame + resize option
 		#Biranje Zooma
 
--Slike:
+	-Slike:
 		#Rotiranje: By Default za 90 stepeni, pa 180 i box za unos zeljenog broja stepeni
 		#Flip
 		#Resize
@@ -49,7 +49,7 @@ Optional Features:
 		#Copy
 		#Cut
 
--FileManager:
+	-FileManager:
 		#View:Ruler, FullScreen
 		#File:Print, Send
 
@@ -58,9 +58,9 @@ Optional Features:
 
 
 Advanced Features:
--Rotating Working Panel za 90, 180 stepeni 
+	-Rotating Working Panel za 90, 180 stepeni 
 
--Toolbar:
+	-Toolbar:
 		 #napravi custom boju koju ce moci da setuje za colorPanel(format, heksa&rgb) + 3 kvadratice za boje koje trenutno koristimo
 		 #BlurIcon
 		 #Shadow
@@ -72,18 +72,18 @@ Advanced Features:
 		 #FiilBucket: Basic one with colors + sa teksturama
 		 #Gumica:Pojavi se opcija za size + da moze da se koristi uz select
 
--Prozorcici:
+	-Prozorcici:
 
--Footbar:
+	-Footbar:
 		 #Lokacija kursora misa
 
--Slike:
+	-Slike:
 	-Select:
 		 #1 po obliku
 		 #2 po liniji 
 		 #3 freeHand
 
--FileManager:
+	-FileManager:
 		 #File:Recent, From scanner or camera, FunFeature
 		 #View:advancedRuler, choose Theme
 		 #Options(biti kreativan): ImageProperties kao u Photoshop
