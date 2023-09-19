@@ -6,7 +6,7 @@ Basic Features:
 		 #colorPanel sa osnovnim bojama, kad izaberemo pojavi se okvir oko tog kvadratica
 		 #4 predlozene debljine linija 
 		 #4 oblika: krug, kocka, pravugaonik, trougao
-		 #Brushes, nekoliko jednostavnih 
+		 #Brush
 		 #Prava linija
 
 	-MainTools:
